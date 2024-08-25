@@ -1,6 +1,7 @@
 <template>
     <div>
       <AboutPage />
+      <p>testes</p>
       <ProjectsList />
     </div>
   </template>
